@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Testingjens]]></title>
         <description><![CDATA[Testingjens]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testingjens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 19:09:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 19:09:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testingjens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magne Ørvik - Autumn 2014]]></title>
+            <description><![CDATA[<article><h1>Magne Ørvik - Autumn 2014</h1><p>Magne Ørvik Slashin´ some local hills - Song: Jamie N Commons - Rumble And Sway Longbording in Oslo, Norway</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96227e64a6e18554868548eace39c8b4/croprotate.jpg?cropheight=849&cropwidth=1920&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FaQ6qIP5Sr94%2Fmaxresdefault.jpg&x=0&y=112"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=aQ6qIP5Sr94</link>
+            <guid isPermaLink="false">7fff6832-38a5-42fc-9a6d-0013b9a86647</guid>
+            <pubDate>Fri, 24 Jun 2016 19:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Aball1 Marketing]]></title>
             <description><![CDATA[<article><h1>Aball1 Marketing</h1><p>https://www.youtube.com/results?search_query=aball1</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/382291929f8c7388f5a98a6cbf9ded34/croprotate.jpg?cropheight=290&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FvybA521Kr3I%2Fhqdefault.jpg&x=0&y=31"></article>]]></description>
