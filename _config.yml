@@ -1,14 +1,14 @@
-layout_spectrum: 0.49222526070661843
-typography_spectrum: 0.9128730942029506
+layout_spectrum: 0.8124878171365708
+typography_spectrum: 0.20175764244049788
 color:
-  brandStrength: 0.22324288869276643
-  lightness: 0.19774595531634986
-  saturation: 0.2892414315138012
-  rhythmicContrast: 0.8775575333274901
+  brandStrength: 0.8068495709449053
+  lightness: 0.3624806960579008
+  saturation: 0.6017760140821338
+  rhythmicContrast: 0.8481033616699278
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: Testingjens
