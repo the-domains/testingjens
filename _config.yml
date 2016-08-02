@@ -1,14 +1,26 @@
-layout_spectrum: 0.3861066538374871
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4926353869959712
 color:
+  saturation: 0.3661888
   brandStrength: 0.2252088231034577
-  lightness: 0.5720870089717209
-  saturation: 0.7097805649973452
-  rhythmicContrast: 0.45169978751800954
+  lightness: 0.6851851
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+  rhythmicContrast: 0.5955794
+layout_spectrum: 0.3861066538374871
 name: Testingjens
