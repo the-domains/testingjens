@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4926353869959712
 color:
   saturation: 0.3661888
   brandStrength: 0.2252088231034577
   lightness: 0.6851851
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#8DB1E3'
+    - '#DBD7D4'
+    - '#32404B'
+    - '#087F9D'
+    - '#4B9199'
   rhythmicContrast: 0.5955794
+typography_spectrum: 0.4926353869959712
 layout_spectrum: 0.3861066538374871
 name: Testingjens
